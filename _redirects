@@ -1,0 +1,3 @@
+/* Routes all paths to index.html for SPA */
+/* _redirects */
+/*    /index.html   200
